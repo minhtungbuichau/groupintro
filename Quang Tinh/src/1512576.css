@@ -1,0 +1,169 @@
+body,html{
+  margin:0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+.part1{
+  background-color: #E0EBE8;
+  width: 100%;
+  height: 797px;
+}
+.part2{
+  position: relative;
+  background-color: white;
+  width: 100%;
+  height: 797px;
+}
+.part3{
+  position: absolute;
+  background-color: white;
+  top: 797px;
+  right: 0;
+  width: 920px;
+  height: 797px;
+}
+.part4{
+  text-align: center;
+  background-color: #EEEEEE;
+  width: 100%;
+  height: 797px;
+  color:  #4ab19a;
+}
+#land{
+  position: absolute;
+  left: 370px;
+  top: 497px;
+}
+#me{
+  position: absolute;
+  left: 280px;
+  top: 28px;
+  width: 75px;
+  height: 75px;
+}
+#me2{
+ 
+  left: 280px;
+  top: 28px;
+  width: 75px;
+  height: 75px;
+}
+.part1 #TINH{
+  position: absolute;
+  left: 44%;
+  top: 30%;
+  font-size: 34px;
+  color: #4ab19a;
+}
+.part1 #webds{
+  position: absolute;
+  left: 40%;
+  top: 37%;
+  font-size: 34px;
+  color: #4ab19a;
+}
+#cloud1{
+  position: absolute;
+  left: 1000px;
+  top: 215px;
+}
+#cloud2{
+  position: absolute;
+  left: 300px;
+  top: 315px;
+}
+#about {
+    position: absolute;
+    left: 1010px;
+    top: 28px;
+    color: #4ab19a; 
+    text-decoration: none;
+}
+#about:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+#contact {
+    position: absolute;
+    left: 1100px;
+    top: 28px;
+    color: #4ab19a; 
+    text-decoration: none;
+}
+#contact:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+#avt1{
+  position: absolute;
+  border-radius: 50%;
+  width: 215px;
+  height: 215px;
+  top: 135px;
+  left: 250px;
+}
+#h1{
+  position: absolute;
+  top: 50px;
+  font-size: 34px;
+  color: #4ab19a; 
+}
+#para1{
+  position: absolute;
+  top: 110px;
+  font-size: 20px;
+  color: #545454; 
+}
+.part3 #poem{
+  color: black;
+  font-size: 20px;
+}
+.part4 #avt2{
+  position: absolute;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  top: 1750px;
+  left: 605px;
+}
+.part4 #facebook{
+  position: absolute;
+  top: 2110px;
+  left: 605px;
+}
+.part4 #ins{
+  position: absolute;
+  top: 2110px;
+  left: 725px;
+}
+.part4 #gg{
+  position: absolute;
+  left: 840px;
+  top: 2110px;
+}
+#contactme{
+  position: absolute;
+  top: 1610px;
+  left: 650px;  
+  font-size: 34px;
+  color: #4ab19a; 
+}
+.footer{
+  background-color: #C5DED7;
+  text-align: center;
+  color: #4ab19a; 
+  height: 20px;
+}
+#face:hover,#in:hover,#g:hover{
+  width: 60px;
+  height: 60px;
+}
+#arrow{
+  position: absolute;
+  top: 2320px;
+  right: 25px;  
+  width: 50px;
+  height: 50px;
+}

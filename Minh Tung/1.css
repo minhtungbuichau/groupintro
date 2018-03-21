@@ -1,0 +1,111 @@
+*{margin: 0; padding: 0;} 
+body
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+#profile{
+	border-radius: 50%;
+	margin-top: 40px;
+}
+
+#position-apply
+{
+	/* float: right; */
+	font-size: 48px;
+	font-weight: bold;
+	border-bottom: 10px solid #1d1e3a;
+	text-align: right;
+}
+
+.left-column{
+	background-color: #1d1e3a;
+	color: white;
+	font-size: 21px;
+}
+
+.content-left-column
+{
+	padding-left: 20px;
+	margin-top: 20px;
+}
+
+.content-right-column
+{
+	padding-left: 10px;
+	padding-right: 20px;
+	text-align: justify;
+}
+.right-column{
+	background-color: #d2e2e4;
+	color:  #1d1e3a;
+	font-size: 21px;
+}
+
+#hobby, #character, #skill, #informatics, #language
+{
+	text-align: center;
+	margin-top: 30px;
+}
+
+div.inside-character
+{
+	color:white;
+	margin-top: -20px;
+	text-align: center;
+}
+
+div.chars
+{
+	font-weight: bold;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 5px;
+	color:  #1d1e3a;
+	background-color: white;
+	margin-right: 0px;
+	text-align: center
+}
+#easy-going
+{
+	padding-left: 23px;
+}
+#responsible
+{
+	padding-left: 17px;
+}
+#dynamic
+{
+	padding-left: 34px;
+}
+#deep
+{
+	padding-left: 52px;
+}
+
+
+
+
+footer
+{
+	width: 100%;
+	height: 100px;
+	background-color: #d4caca;
+	color: white;
+}
+footer.container p
+{
+	padding-top: 10px;
+}
+
+.content-skill
+{
+	display: flex;
+	justify-content: space-around;
+}
+
+.level
+{
+	width: 40%;
+	height: auto;
+}

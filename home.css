@@ -1,0 +1,55 @@
+*{margin: 0;padding:0;}
+
+content
+{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+#school{
+	font-size: 32px;
+}
+
+#faculty{
+	font-size: 25px;
+}
+
+#subject{
+	background-color: #0092df;
+	line-height: 60px;
+	font-size: 25px;
+	color: white;
+	margin: auto 400px;
+}
+
+.information{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+
+.member:hover{
+	opacity: 0.7;
+}
+
+img{
+	width: 180px;
+	height: auto;
+	border-radius: 50%;
+}
+
+p.name{
+	margin-top: 10px;
+	text-decoration: none;
+}
+
+.link{
+	text-decoration: none;
+}
+footer{
+	margin-top: 80px;
+	padding-top: 30px;
+	padding-bottom: 3px;
+	background-color: #0093df;
+	color: white;
+}
